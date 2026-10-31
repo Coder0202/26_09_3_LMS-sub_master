@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Management-System1
 =======
 # LMS (26_09_3_LMS) 🎓
@@ -91,3 +92,6 @@ flutter analyze
 flutter build web --release
 ```
 >>>>>>> e748a45af7cbc731caed8f47f3a3834494c42e76
+=======
+# 26_09_3_LMS-sub_master
+>>>>>>> efa9eea7512aeffa30b5db3f09872df50c851289
